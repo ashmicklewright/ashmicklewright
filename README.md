@@ -1,16 +1,25 @@
-## Hi there 👋
+## Welcome to my GitHub!
 
-<!--
-**ashmicklewright/ashmicklewright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Ash Micklewright
+located_in: Bellingham, WA
+job: Graduate Student
+education:
+  [
+  "in progress: Master's in Biology, Western Washington University"
+  "Bachelor's in Conservation Biology and Ecology, Montana State University
+  ]
 
-Here are some ideas to get you started:
+fields_of_interest:
+  [
+  "Saving the planet"
+  "Data Science"
+  "Science Communication"
+  ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+```
+
+![Snake animation](https://github.com/ashmicklewright/ashmicklewright/blob/output/github-contribution-grid-snake.svg)
+
