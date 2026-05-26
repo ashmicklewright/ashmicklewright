@@ -21,6 +21,5 @@ fields_of_interest:
 
 ```
 
-![Snake animation](https://raw.githubusercontent.com/ashmicklewright/ashmicklewright/output/github-contribution-grid-snake.svg)
 
 
