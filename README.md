@@ -1,22 +1,13 @@
-## Welcome to my GitHub!
+# Ash Micklewright
+📍 Bellingham, WA
 
-```yaml
-name: Ash Micklewright
-located_in: Bellingham, WA
-job: Graduate Student
-education:
-  [
-  "in progress: Master's in Biology, Western Washington University",
-  "Bachelor's in Conservation Biology and Ecology, Montana State University"
-  ]
+🌲 M.S. Biology Student @ Western Washington University
+  - My research explores how climate stressors and spatial environmental heterogeneity affect plant performance and ecosystem restoration outcomes.
 
-fields_of_interest:
-  [
-  "Saving the planet",
-  "Data Science",
-  "Science Communication"
-  ]
-```
-
+### Interests
+🌎 Saving the planet  
+📊 Data Science  
+📢 Science Communication
+🌱 Ecological Restoration
 
 
