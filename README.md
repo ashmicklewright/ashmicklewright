@@ -7,7 +7,7 @@
 ### Interests
 🌎 Saving the planet  
 📊 Data Science  
-📢 Science Communication
+📢 Science Communication  
 🌱 Ecological Restoration
 
 
